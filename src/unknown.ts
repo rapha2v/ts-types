@@ -9,3 +9,6 @@ const y: number = 800;
 //console.log(x + y); gera erro
 
 if (typeof x === 'number') console.log(x + y);
+
+//module mode
+export {};

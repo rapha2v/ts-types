@@ -21,3 +21,6 @@ console.log(Cores.PRETO);
 /*
   enums no TS são traiçoeiros pois se colocarmos um valor inexistente ele aceita, sem dar algum tipo de erro e retornar undefined
 */
+
+//module mode
+export {};

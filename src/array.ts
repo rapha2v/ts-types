@@ -14,3 +14,6 @@ function upper(arrString: string[]): string[] {
 const arrUpper = upper(arr);
 
 console.log(arrUpper);
+
+//module mode
+export {};

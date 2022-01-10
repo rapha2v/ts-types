@@ -26,3 +26,6 @@ obj2.chavess = 2;
 obj2.chaves = 1;
 
 console.log(obj2);
+
+//module mode
+export {};

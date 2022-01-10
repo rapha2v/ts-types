@@ -15,4 +15,5 @@ const endereco: readonly [string, number] = ['rua florianópolis', 352];
 console.log(pessoa);
 console.log(endereco);
 
+//module mode
 export {};

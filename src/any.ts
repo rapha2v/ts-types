@@ -15,3 +15,6 @@ function showMessage(msg: any) {
 console.log(showMessage(['a', 'b', 'c']));
 console.log(showMessage('mensagem'));
 console.log(showMessage(1));
+
+//module mode
+export {};

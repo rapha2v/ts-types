@@ -6,3 +6,6 @@ function createError(): never {
 }
 
 createError();
+
+//module mode
+export {};
